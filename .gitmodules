@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/nathaniel1018/HerlandLaundryFinalFe.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/diwata-pares123/se2-herland-be.git
