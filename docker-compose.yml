@@ -15,7 +15,8 @@ services:
       - "3000:3000"
     environment:
       # 'db' here refers to the service name above, not localhost
-      DATABASE_URL: "postgresql://postgres:yourpassword@db:5432/laundry_db"
+      DATABASE_URL: "postgresql://postgres:yourpassword@db:5432/laundry_dbpostgresql://postgres.rhawnqjckgumbmuxpquw:dummyDB_SE%40%402027@aws-1-ap-south-1.pooler.supabase.com:5432/postgres?pgbouncer=true"
+
     depends_on:
       - db
 
