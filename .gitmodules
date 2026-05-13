@@ -1,6 +1,7 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/nathaniel1018/HerlandLaundryFinalFe.git
+	branch = feature-my-updates
 [submodule "backend"]
 	path = backend
 	url = https://github.com/diwata-pares123/se2-herland-be.git
